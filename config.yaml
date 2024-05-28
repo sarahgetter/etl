@@ -1,0 +1,3 @@
+file_path: 'data.csv'
+db_url: 'postgresql://${DB_USER}:${DB_PASS}@localhost:5432/mydatabase'
+table_name: 'transactions'
